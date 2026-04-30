@@ -1,0 +1,3 @@
+Candidate has experience in Python, Machine Learning, NLP, SQL, and Deep Learning.
+Worked for 3 years as Data Scientist.
+Used tools like TensorFlow, Pandas, and Scikit-learn.

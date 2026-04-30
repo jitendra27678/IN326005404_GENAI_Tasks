@@ -1,0 +1,4 @@
+Candidate knows Python and SQL.
+Has basic understanding of Machine Learning.
+1 year experience.
+Worked with Pandas.
